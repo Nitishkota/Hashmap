@@ -9,7 +9,7 @@ public class Newmap {
 		HashMap<String, Integer> data = new HashMap<>();
 		
 		data.put("Sek", 200);
-		data.put("Mahi", 40);
+		data.put("Mahi", 410);
 		data.put("Har", 500);
 		
 		
